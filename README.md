@@ -1,9 +1,9 @@
 # Felipe Alves
 
 ### about me
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipealves0957&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves0957&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+<div style="display: inline_block">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipealves0957&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves0957&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
   
 ##
