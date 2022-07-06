@@ -1,21 +1,25 @@
-# Felipe Falcon
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Felipe Falcon</h1>
 
+- 🔥 Game Developer at Instituto Federal do Triângulo Mineiro
 
-### about me
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipealves0957&show_icons=true&theme=radical&hide_border=true" alt="maykbrito"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves0957&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-  
-##
+- 💬 Ask me about **JavaScript, MySQL, Node.JS, Unity, C# and Star Trek**
 
-### skills
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Unity" height="30" width="40" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-  
+- 📍 Uberaba, Minas Gerais
+<br><br>
+## 🛠 &nbsp;Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=E7E7E7)&nbsp;
+<br><br>
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefalconn&show_icons=true&theme=gotham" alt="felipefalconn's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalconn&layout=compact&theme=gotham" alt="felipefalconn's most languages"/>
+</p>
+
+<br><br>
