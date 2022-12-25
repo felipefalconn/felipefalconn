@@ -1,10 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Felipe Falcon</h1>
 
-- 🔥 Game Developer at Instituto Federal do Triângulo Mineiro
+🙇 Matheus 11:28
 
-- 💬 Ask me about **JavaScript, MySQL, Node.JS, Unity, C# and Star Trek**
+🌳 Usando da tecnologia para criar um mundo mais verde
 
-- 📍 Uberaba, Minas Gerais
+🍔 CEO & co-Founder @comandabr
+
+
 <br><br>
 ## 🛠 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
