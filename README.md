@@ -4,7 +4,7 @@
 
 🌳 Usando da tecnologia para criar um mundo mais verde
 
-🍔 CEO & co-Founder <a href="https://www.instagram.com/comandabr">comandabr</a>
+🍔 CEO & co-Founder <a href="https://www.instagram.com/comandabr">@comandabr</a>
 <br><br>
 ## 🛠 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
