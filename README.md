@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=E7E7E7)&nbsp;
 <br><br>
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefalconn&show_icons=true&theme=gotham" alt="felipefalconn's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalconn&layout=compact&theme=gotham" alt="felipefalconn's most languages"/>
