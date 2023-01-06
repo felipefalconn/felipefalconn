@@ -17,8 +17,8 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefalconn&show_icons=true&theme=dracula" alt="felipefalconn's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalconn&layout=compact&theme=dracula" alt="felipefalconn's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefalconn&show_icons=true&theme=midnight-purple" alt="felipefalconn's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalconn&layout=compact&theme=midnight-purple" alt="felipefalconn's most languages"/>
 </p>
 
 <br><br>
