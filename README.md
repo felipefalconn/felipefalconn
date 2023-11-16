@@ -1,8 +1,9 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Felipe Falcon</h1>
+<h1 align="left">Hi, I'm Felipe Falcon</h1>
 
 🙇 Matheus 11:28
 
-🌳 Usando da tecnologia para criar um mundo mais verde
+🚀 Combinando tecnologia e foguetes.
+
 <br><br>
 ## 🛠 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
