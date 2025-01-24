@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Felipe Falcon</h1>
 
-🙇 Matheus 11:28
-
-🚀 Combinando tecnologia e foguetes!
+🚀 I love technology and rockets!
 <br><br>
 ## 🛠 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
