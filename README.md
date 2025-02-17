@@ -3,8 +3,6 @@
 Aerospace Engineering at @ufmg.
 
 [![Instagram Badge](https://img.shields.io/badge/-@felipefalconn-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/felipefalconn)](https://instagram.com/felipefalconn) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
