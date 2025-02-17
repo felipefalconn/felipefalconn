@@ -1,20 +1,13 @@
-<h1 align="left">Hi, I'm Felipe Falcon</h1>
+# Felipe Falconn
 
-🚀 I love technology and rockets!
-<br><br>
-## 🛠 &nbsp;Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=E7E7E7)&nbsp;
-<br><br>
-## ⚙️ &nbsp;Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefalconn&show_icons=true&theme=gotham" alt="felipefalconn's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefalconn&layout=compact&theme=gotham" alt="felipefalconn's most languages"/>
-</p>
+Aerospace Engineering at @ufmg.
 
-<br><br>
+[![Instagram Badge](https://img.shields.io/badge/-@felipefalconn-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/felipefalconn)](https://instagram.com/felipefalconn) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
