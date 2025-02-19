@@ -2,9 +2,9 @@
 
 Aerospace Engineering at @ufmg.
 
-[![Instagram Badge](https://img.shields.io/badge/-@felipefalconn-d9a8f0?style=flat-square&labelColor=d9a8f0&logo=instagram&logoColor=black&link=https://instagram.com/felipefalconn)](https://instagram.com/felipefalconn) 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Falconn-d9a8f0?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/)](https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipealves0957%40gmail.com-d9a8f0?style=flat-square&logo=Gmail&logoColor=black&link=mailto:felipealves0957@gmail.com)](mailto:felipealves0957@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@felipefalconn-8d5ef2?style=flat-square&labelColor=8d5ef2&logo=instagram&logoColor=black&link=https://instagram.com/felipefalconn)](https://instagram.com/felipefalconn) 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Falconn-8d5ef2?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/)](https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/) 
+[![Gmail Badge](https://img.shields.io/badge/-felipealves0957%40gmail.com-8d5ef2?style=flat-square&logo=Gmail&logoColor=black&link=mailto:felipealves0957@gmail.com)](mailto:felipealves0957@gmail.com)
 
 Passionate about rockets and machine learning systems.
 
