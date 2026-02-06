@@ -1,7 +1,14 @@
-# Felipe Falconn
+# Aerospace Engineering & Computational Intelligence
 
-I am currently developing reinforcement learning algorithms for aircraft control and stability.
+I am an Aerospace Engineering student at the Federal University of Minas Gerais (UFMG), currently focused on the intersection of GNC (Guidance, Navigation, and Control) and Artificial Intelligence. My goal is to bridge the gap between classical control theory and modern Deep Learning to develop robust autonomous systems.
 
-[![Instagram Badge](https://img.shields.io/badge/-@felipefalconn-0D1117?style=flat-square&labelColor=0D1117&logo=instagram&logoColor=white&link=https://instagram.com/felipefalconn)](https://instagram.com/felipefalconn)  
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Falconn-0D1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/)](https://www.linkedin.com/in/felipe-pereira-alves-6296041b0/)  
-[![Gmail Badge](https://img.shields.io/badge/-felipealves0957%40gmail.com-0D1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipealves0957@gmail.com)](mailto:felipealves0957@gmail.com)  
+## Current Research & Projects
+
+- Aircraft Control & Stability: Developing Reinforcement Learning algorithms for flight stabilization and maneuver optimization.
+
+- Sim2Real Gap: Exploring high-fidelity simulations (NVIDIA Isaac Sim/Gazebo) to deploy DRL agents into real-world UAV applications.
+
+- Robotics Integration: Implementing sensor fusion (LiDAR, IMU) and navigation stacks using ROS 2.
+
+[![Instagram](https://img.shields.io/badge/-0D1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/felipefalconn)
+[![Gmail](https://img.shields.io/badge/-0D1117?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipealves0957@gmail.com)
